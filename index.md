@@ -12,3 +12,7 @@ Added examples for each header size
 ``` python
 num = 15
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
